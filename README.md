@@ -1,5 +1,5 @@
 # Android Appium Project
-# APK Used: ApiDemos-debug.apk
+# Used APK: ApiDemos-debug.apk
 Create your virtual device using Android studio 
 Goto tools and select "AVD Manager"
 Add a phone hardware e.g: Nexus 6P
